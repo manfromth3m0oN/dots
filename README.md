@@ -3,3 +3,7 @@
 there really isnt anything that fancy here
 
 basically all ive got is dwm kitty and someother stuff to handle compositing and notifs
+
+## screenshot
+
+![screenshot][~/pics/sc/desktop.png]
