@@ -6,4 +6,4 @@ basically all ive got is dwm kitty and someother stuff to handle compositing and
 
 ## screenshot
 
-![screenshot][~/pics/sc/desktop.png]
+![screenshot](pics/sc/desktop.png)
